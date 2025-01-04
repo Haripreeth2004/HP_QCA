@@ -11,7 +11,6 @@ This repository contains the simulation results and design files for quantum dot
 - [Tools Used](#tools-used)
 - [Designs Implemented](#designs-implemented)
 - [How to Use](#how-to-use)
-- [Future Work](#future-work)
 - [References](#references)
 
 ---
@@ -52,3 +51,8 @@ This repository includes:
    git clone https://github.com/Haripreeth2004/HP_QCA.git
    unzip qca-simulations.zip
    cd qca-simulations
+
+
+## References for Installing the QCA Designer and working
+- [QCA Designer Official Github project repo](https://github.com/FSillT/QCADesigner-E): Official tool for simulating QCA circuits.
+
