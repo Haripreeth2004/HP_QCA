@@ -50,4 +50,5 @@ This repository includes:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Haripreeth2004/HP_QCA.git
+   unzip qca-simulations.zip
    cd qca-simulations
